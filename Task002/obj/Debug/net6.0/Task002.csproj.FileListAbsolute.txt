@@ -1,0 +1,15 @@
+/Users/dagorbacheva/Desktop/homework1/Task002/obj/Debug/net6.0/Task002.csproj.AssemblyReference.cache
+/Users/dagorbacheva/Desktop/homework1/Task002/obj/Debug/net6.0/Task002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dagorbacheva/Desktop/homework1/Task002/obj/Debug/net6.0/Task002.AssemblyInfoInputs.cache
+/Users/dagorbacheva/Desktop/homework1/Task002/obj/Debug/net6.0/Task002.AssemblyInfo.cs
+/Users/dagorbacheva/Desktop/homework1/Task002/obj/Debug/net6.0/Task002.csproj.CoreCompileInputs.cache
+/Users/dagorbacheva/Desktop/homework1/Task002/bin/Debug/net6.0/Task002
+/Users/dagorbacheva/Desktop/homework1/Task002/bin/Debug/net6.0/Task002.deps.json
+/Users/dagorbacheva/Desktop/homework1/Task002/bin/Debug/net6.0/Task002.runtimeconfig.json
+/Users/dagorbacheva/Desktop/homework1/Task002/bin/Debug/net6.0/Task002.dll
+/Users/dagorbacheva/Desktop/homework1/Task002/bin/Debug/net6.0/Task002.pdb
+/Users/dagorbacheva/Desktop/homework1/Task002/obj/Debug/net6.0/Task002.dll
+/Users/dagorbacheva/Desktop/homework1/Task002/obj/Debug/net6.0/refint/Task002.dll
+/Users/dagorbacheva/Desktop/homework1/Task002/obj/Debug/net6.0/Task002.pdb
+/Users/dagorbacheva/Desktop/homework1/Task002/obj/Debug/net6.0/Task002.genruntimeconfig.cache
+/Users/dagorbacheva/Desktop/homework1/Task002/obj/Debug/net6.0/ref/Task002.dll
